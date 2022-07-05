@@ -1,0 +1,99 @@
+* {
+  background-color: bisque;
+  font-family: 'Roboto', sans-serif;
+  margin: 0; 
+  padding: 0; 
+}
+
+.header {
+  height: 120px;
+  background-color: white;
+  display: flex;
+   
+}
+
+.snail-logo {
+  height: 80%; 
+  width: 8%;
+  margin-left: 50px; 
+  margin-top: 5px;
+  
+}
+
+
+ul {
+  list-style: none;
+ display: flex;
+ background-color: white;
+ align-items: center;
+  margin-left: 600px;
+  margin-right: 100px;
+}
+
+li {
+  font-size: 24px;
+  margin-left: 40px;
+  background-color: white;
+}
+
+li:hover{
+  font-size: 32px;
+}
+
+img {
+  height: 50%; 
+  width: 50%; 
+  display: block;
+  text-align: center;
+  box-shadow: 5px 5px 10px 5px ;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px; 
+  margin-top: 30px;
+  
+}
+
+h2 {
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+p:hover {
+  background-color: blue;
+}
+
+table {
+  margin-left: auto; 
+  margin-right: auto;
+  margin-bottom: 30px;
+  background-color: black;
+  color: blue; 
+  
+}
+td {
+  padding: 15px;
+}
+th{
+  padding: 15px;
+}
+
+iframe {
+  margin-left: 400px; 
+  box-shadow: 5px 5px 10px 5px;
+}
+
+h2, p {
+ margin-left: 20px; 
+}
+
+
+
